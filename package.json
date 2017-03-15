@@ -1,0 +1,22 @@
+{
+  "name": "hatckhack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.8.1"
+  },
+  "author": "Shubam Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.9"
+  }
+  
+}
